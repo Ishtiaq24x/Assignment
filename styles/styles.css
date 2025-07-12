@@ -1,5 +1,5 @@
-.header-class {
-    background-image: url(images/banner.png);
+.main {
+    background-image: url("../images/Hero-bg.png");
     background-size: cover;
     background-repeat: no-repeat;
 }
@@ -31,7 +31,7 @@ a {
     color: #4E47FF;
 }
 .header-content {
-    /*width: 905px;
+   /* width: 905px;
     height: 237px;*/
     text-align: center;
     margin-top: 158px;
@@ -50,13 +50,13 @@ a {
 .button-class {
     background-color: #4E47FF;
     color: #FFFFFF;
-    font-weight: 600;
-    font-size: 16px;
+    font-weight: 500;
+    font-size: 25px;
     border: none;
-    border-radius: 10px;
+    border-radius: 100px;
     padding: 12px 36px;
 }
-.section-one {
+.one {
     display: flex;
     margin-top: 116px;
     margin-left: 140px;
@@ -68,7 +68,7 @@ a {
     width: 517px;
     height: 203px;
 }
-.section-one {
+.one {
     gap: 220px;
 }
 .main-title {
@@ -92,7 +92,7 @@ a {
     padding-top: 12px;
     padding-bottom: 12px;
 }
-.section-two {
+.two {
     /*width: 1140px;
     height: 306px;*/
     background-color: rgba(78, 71, 255, 10%);
@@ -132,7 +132,7 @@ a {
     font-size: 20px;
     color: rgba(0, 0, 0, 50%);
 }
-.section-three {
+.three {
     text-align: center;
     margin-left: 151px;
     margin-bottom: 137px;
@@ -202,7 +202,7 @@ a {
     font-size: 16px;
     color: #B3B3B3;
 }
-.section-four {
+.four {
     margin: 137px 151px;
     background-color: #FFFFFF;
     border-radius: 14px;
@@ -234,7 +234,7 @@ a {
     width: 840px;
     height: 364.77px;
 }
-.section-five {
+.five {
     background-color: rgba(255, 255, 255, 50%);
     padding-top: 71px;
     padding-bottom: 71px;
